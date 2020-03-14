@@ -10,4 +10,4 @@ scoreboard objectives remove two
 # remove bossbar
 bossbar remove minecraft:boom
 
-tell
+tell Uninstalled successfully!
